@@ -1,0 +1,8 @@
+wxServDisc is a simple to use C++ class to facilitate Zeroconf service discovery in any wxWidgets application, MOVED over to github!$$$
+wxServDisc - Browse Files at SourceForge.net$$$
+https://sourceforge.net/projec...$$$
+
+Download wxServDisc for free. wxServDisc is a simple to use C++ class to facilitate Zeroconf service discovery in any wxWidgets application, MOVED over ...$$$
+wxServDisc download | SourceForge.net$$$
+https://sourceforge.net/projec...$$$
+
